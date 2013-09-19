@@ -1,4 +1,3 @@
-
 # HMTL KickStart #
 by Joshua Gatcke
 http://www.99lime.com
